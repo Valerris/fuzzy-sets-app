@@ -1,0 +1,90 @@
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe.config
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.pdb
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csprojResolveAssemblyReference.cache
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Form1.resources
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Properties.Resources.resources
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csproj.GenerateResource.Cache
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.exe
+C:\Users\Мария\Desktop\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.pdb
+F:\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe.config
+F:\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.exe
+F:\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.pdb
+D:\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe.config
+D:\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.exe
+D:\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.pdb
+F:\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csprojResolveAssemblyReference.cache
+F:\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Form1.resources
+F:\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Properties.Resources.resources
+F:\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csproj.GenerateResource.Cache
+F:\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe
+F:\Програмирование\сиШарп\WinForms\НМиС_ЛР2\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.pdb
+D:\НМиС_ЛР2\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe.config
+D:\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.exe
+D:\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.pdb
+D:\НМиС_ЛР2\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe
+D:\НМиС_ЛР2\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.pdb
+D:\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csprojResolveAssemblyReference.cache
+D:\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Form1.resources
+D:\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Properties.Resources.resources
+D:\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csproj.GenerateResource.Cache
+F:\НМиС_ЛР2\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe.config
+F:\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.exe
+F:\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.pdb
+F:\НМиС_ЛР2\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe
+F:\НМиС_ЛР2\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.pdb
+F:\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csprojResolveAssemblyReference.cache
+F:\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Form1.resources
+F:\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Properties.Resources.resources
+F:\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csproj.GenerateResource.Cache
+C:\Users\Мария\Desktop\Програмирование\НМиС_ЛР2\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe.config
+C:\Users\Мария\Desktop\Програмирование\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.exe
+C:\Users\Мария\Desktop\Програмирование\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.pdb
+C:\Users\Мария\Desktop\Програмирование\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csprojResolveAssemblyReference.cache
+C:\Users\Мария\Desktop\Програмирование\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Form1.resources
+C:\Users\Мария\Desktop\Програмирование\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Properties.Resources.resources
+C:\Users\Мария\Desktop\Програмирование\НМиС_ЛР2\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csproj.GenerateResource.Cache
+C:\Users\Мария\Desktop\Програмирование\НМиС_ЛР2\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe
+C:\Users\Мария\Desktop\Програмирование\НМиС_ЛР2\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.pdb
+G:\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe.config
+G:\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.exe
+G:\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.pdb
+F:\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe.config
+F:\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.exe
+F:\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.pdb
+F:\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe
+F:\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.pdb
+F:\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csprojResolveAssemblyReference.cache
+F:\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Form1.resources
+F:\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Properties.Resources.resources
+F:\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csproj.GenerateResource.Cache
+D:\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe.config
+D:\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.exe
+D:\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.pdb
+D:\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe
+D:\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.pdb
+D:\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csprojResolveAssemblyReference.cache
+D:\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Form1.resources
+D:\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Properties.Resources.resources
+D:\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csproj.GenerateResource.Cache
+E:\2 КУРС 2 СЕМЕСТР\Нечеткие множества\2\Новая папка\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe.config
+E:\2 КУРС 2 СЕМЕСТР\Нечеткие множества\2\Новая папка\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.exe
+E:\2 КУРС 2 СЕМЕСТР\Нечеткие множества\2\Новая папка\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.pdb
+F:\Нечеткие множества\2\Новая папка\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe.config
+F:\Нечеткие множества\2\Новая папка\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.exe
+F:\Нечеткие множества\2\Новая папка\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.pdb
+F:\Нечеткие множества\2\Новая папка\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe
+F:\Нечеткие множества\2\Новая папка\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.pdb
+F:\Нечеткие множества\2\Новая папка\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csprojResolveAssemblyReference.cache
+F:\Нечеткие множества\2\Новая папка\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Form1.resources
+F:\Нечеткие множества\2\Новая папка\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Properties.Resources.resources
+F:\Нечеткие множества\2\Новая папка\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe.config
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.exe
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.pdb
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.exe
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\НМиС_ЛР2\bin\Debug\НМиС_ЛР2.pdb
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Form1.resources
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Нечёткие Множества\2\Новая папка\НМиС_ЛР2\obj\Debug\НМиС_ЛР2.csproj.GenerateResource.Cache
